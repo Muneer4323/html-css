@@ -1,0 +1,95 @@
+.header{
+    background-color: #e4f8f5;
+    height: 100vh;
+    margin-top: 0px;
+}
+.cloud{
+    display: inline-block;
+    justify-content: flex-end;
+    margin-top: 50px;
+    margin-left: 800px;
+}
+
+.contentone{
+    font-family: Sacramento, cursive;
+    color: #653513;
+    text-align: center;
+    margin-top: 50px;
+}
+h2{
+    font-family: Montserrat, sherif;
+    font-size: 100px;
+    color: #653513;
+    text-align: center;   
+}
+.pro{
+    text-decoration: underline;
+}
+.cloudtwo{
+    margin-left: 300px;
+}
+.buildings{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+.skills{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #653513;
+}
+.features > h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: #653513;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.cat{
+    display: inline-block;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+.cat > img{
+    float: left;
+}
+.cat > h3{
+    color: #653513;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+.features > p{
+    line-height: 3;
+}
+.last{
+    display: inline-block;
+    line-height: 3;
+    margin-top: 150px;
+    text-align: center;
+    margin-left: 450px;
+}
+.last > h3{
+    font-size: 50px;
+    color: #653513;
+}
+.lastone{
+    color: #653513;
+    font-size: 20px;
+}
+.button{
+  background-color:#653513;
+  border: none;
+  border-radius: 50px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2 2;
+ }
+ .footer{
+    background-color: #e4f7f5;
+    margin-top: 30px;
+ }
